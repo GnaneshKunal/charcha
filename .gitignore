@@ -12,3 +12,5 @@ staticfiles
 
 *.log.*
 *.log
+
+__pycache__/
